@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larsmartin4
 - 👀 I’m interested in PC, gaming, developing, Translating
-- 🌱 I’m currently learning Java, Python, c++, PHP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, Java, Python, c++, PHP
+- 💞️ I’m looking to collaborate on Linux and ReactOS and Apple
 - 📫 How to reach me Facebook, Instagram, Skype, IRC
 
 <!---
