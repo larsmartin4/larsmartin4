@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @larsmartin4
 - 👀 I’m interested in PC, gaming, developing, Translating
 - 🌱 I’m currently learning HTML, Java, Python, c++, c#, PHP
+-    I’m currently learning Microsoft studio code and visual studio express community edition.
 - 💞️ I’m looking to collaborate on Linux and ReactOS and Apple
 - 📫 How to reach me Facebook, Instagram, Skype, IRC
 - I works on norwegian book of Linux (https://no.wikibooks.org/wiki/Boken_Om_Linux)
